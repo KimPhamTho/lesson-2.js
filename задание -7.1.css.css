@@ -1,0 +1,47 @@
+table{border-top-color: red;
+    border-left-color: yellow;
+    border-right-color: blue;
+   border-bottom-color: rgb(161, 206, 82);
+}
+.moto{
+
+}
+.black{
+    text-align: center;  
+}
+
+.right-top{
+    background:#f7a98a;
+    
+}
+.yellow{
+    background: yellow;
+  
+}
+.blue{ background: blue; 
+}
+.courier{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16pt;
+
+}
+.red{ 
+    color: red;
+    
+
+}
+.word-blue{color: blue;
+}
+.word{
+    font-weight: bold;
+    
+}
+.main-blue{
+text-align: right;
+
+}
+.serif{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24pt;
+    font-weight: bold;
+}
